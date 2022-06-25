@@ -10,6 +10,8 @@ Original Project: An application that helps users to créate a banking account t
 
 ### Screenshots: 
 
+ <img src= "https://github.com/Sugamlake/Sugamlake/blob/main/horizon%20without%20borders.png"/>
+
 ### Technology used: 
 ### Otras modificaciones
 
