@@ -10,7 +10,7 @@ Original Project: An application that helps users to créate a banking account t
 
 ### Screenshots: 
 
- <img src= "https://github.com/Sugamlake/Sugamlake/blob/main/horizon%20without%20borders.png"/>
+[![Sugam-Bank.png](https://i.postimg.cc/qBsThyjQ/Sugam-Bank.png)](https://postimg.cc/Wt1KxFRJ)
 
 ### Technology used: 
 - Node.JS
