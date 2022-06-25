@@ -13,19 +13,24 @@ Original Project: An application that helps users to créate a banking account t
  <img src= "https://github.com/Sugamlake/Sugamlake/blob/main/horizon%20without%20borders.png"/>
 
 ### Technology used: 
-### Otras modificaciones
+- Node.JS
+- REACT
+- Boostrap
 
-- También se pueden agregar otras modificaciones al proyecto como una enrutador que muestra el tiempo y la velocidad entre las paradas 
-
-- Se pueden mostrar con un marcador los puntos de interes por cada paradero
 ### Features: 
 
+- Create users and login 
+- Update account balance when making deposits and withdraws
+- Visualize all users operations and data 
 
+In the future it could have : 
+- Send money to other accounts 
+- Choose an account type when creating an account
 
 
 ### MIT License
 
-Copyright (c) [2021] [ Susana Gamboa Navarro]
+Copyright (c) [2022] [ Susana Gamboa Navarro]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
